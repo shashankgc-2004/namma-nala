@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1094050913936",
+    "project_id": "nammanala-11698",
+    "storage_bucket": "nammanala-11698.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1094050913936:android:d9ed21b158caa402c28215",
+        "android_client_info": {
+          "package_name": "com.example.nammanala"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1094050913936-9tgr5ejugbrdm2637n89o3sggr7m9m8l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nammanala",
+            "certificate_hash": "360e584afac4f50e05b11becea586c9574990d05"
+          }
+        },
+        {
+          "client_id": "1094050913936-fv7a12a8pgkc0tc79nc45ppmg25kjjij.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkRzkNp8gWZSjCAKFvVmHFA0PhHQeE6qc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1094050913936-fv7a12a8pgkc0tc79nc45ppmg25kjjij.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
